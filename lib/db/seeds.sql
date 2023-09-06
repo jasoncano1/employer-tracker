@@ -4,7 +4,7 @@ VALUES
     ('Engineering'),
     ('Sales');
 
-INSERT INTO roles (title, salary, department_id)
+INSERT INTO roles (title, salary, department_id) seeds.sql
 VALUES
     ('Lawyer', 100000.00, 1),
     ('Paralegal', 50000.00, 1),
