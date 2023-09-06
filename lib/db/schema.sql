@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS `employer_tracker`;
-CREATE DATABASE `employer_tracker`;
-USE `employer_tracker`;
+DROP DATABASE IF EXISTS `employee_tracker`;
+CREATE DATABASE `employee_tracker`;
+USE `employee_tracker`;
 
 CREATE TABLE `departments` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
