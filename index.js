@@ -8,6 +8,9 @@ const init = () => {
         if (task == 'View All Roles') DB.getRoles().then(init);
         if (task == 'View All Employees') DB.getEmps().then(init);
         if (task == 'Add Department') DB.addDept(ans).then(init);
+        if (task == 'Add Role') DB.addRole(ans).then(init);
+        if (task == 'Add ') DB.addRole(ans).then(init);
+
 
 
     })
