@@ -4,7 +4,8 @@
 
 This project creates a content management systems (CMS) to manage a company's employee database, using Node.js, Inquirer, and MySQL.  This will be run using the Terminal.
 
-![app_image](/images/mockup1.png)
+
+![Alt text](walthrough.gif)
 
 ## Table of Contents
 
